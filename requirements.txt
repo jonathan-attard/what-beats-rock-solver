@@ -1,0 +1,6 @@
+selenium
+transformers
+webdriver_manager
+# torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+huggingface-hub
+accelerate
